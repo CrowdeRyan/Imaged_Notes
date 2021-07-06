@@ -1,0 +1,13 @@
+.buttons {
+  display: flex;
+}
+
+.btn {
+  flex-wrap: wrap;
+}
+
+.notes {
+  display: block;
+  text-align: center;
+  justify-content: center;
+}
