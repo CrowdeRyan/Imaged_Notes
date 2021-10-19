@@ -1,20 +1,18 @@
-.buttons {
-  display: flex;
-}
-
-.btn {
-  flex-wrap: wrap;
+main {
+  display: grid;
+  flex: auto;
 }
 
 .notes {
-  display: block;
-  text-align: center;
-  justify-content: center;
+  margin: 20px;
+
+  flex-wrap: wrap;
+  flex-direction: column;
 }
 
 h3 {
   text-align: center;
-  align-items: center;
+
   justify-content: center;
-  margin: 15px 0;
+  margin: 30px;
 }
