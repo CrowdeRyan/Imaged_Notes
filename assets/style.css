@@ -5,9 +5,6 @@ main {
 
 .notes {
   margin: 20px;
-
-  flex-wrap: wrap;
-  flex-direction: column;
 }
 
 h3 {
